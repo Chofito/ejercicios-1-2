@@ -1,1 +1,1 @@
-# ejercicios-1-2
+![Tiempo total](captura.png)
